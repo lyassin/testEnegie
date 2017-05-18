@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/email"
+            android:icon="@drawable/ic"
+            android:title="email"
+            android:checked="true"/>
+        <item
+            android:id="@+id/id"
+            android:icon="@drawable/ic"
+            android:title="id" />
+
+        <item
+            android:id="@+id/deconnexion"
+            android:icon="@drawable/ic"
+            android:title="deconnexion" />
+
+    </group>
+
+</menu>
